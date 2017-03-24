@@ -3,13 +3,12 @@ Virto Commerce 2.x
 
 | Branch  | Status |
 | ------------- | ------------- |
-| [Master - releases](https://github.com/VirtoCommerce/vc-community)  | [![Build Status](http://ci.virtocommerce.com:8080/buildStatus/icon?job=VirtoCommerce 2.x CI Build - master)](http://ci.virtocommerce.com:8080/job/VirtoCommerce 2.x CI Build - master)  |
-| [Development / Integration](https://github.com/VirtoCommerce/vc-community/tree/dev)  | [![Build Status](http://ci.virtocommerce.com:8080/buildStatus/icon?job=VirtoCommerce 2.x CI Build - dev)](http://ci.virtocommerce.com:8080/job/VirtoCommerce 2.x CI Build - dev)  |
-| Feature (on going feature dev)  | [![Build Status](http://ci.virtocommerce.com:8080/buildStatus/icon?job=VirtoCommerce 2.x CI Build - branches)](http://ci.virtocommerce.com:8080/job/VirtoCommerce 2.x CI Build - branches)  |
+| [Master](https://github.com/VirtoCommerce/vc-platform)  | [![Build Status](http://ci.virtocommerce.com:8080/buildStatus/icon?job=vc-2-org/vc-platform/master)](http://ci.virtocommerce.com:8080/job/vc-2-org/job/vc-platform/job/master/)  |
+| [Dev](https://github.com/VirtoCommerce/vc-platform)  | [![Build Status](http://ci.virtocommerce.com:8080/buildStatus/icon?job=vc-2-org/vc-platform/dev)](http://ci.virtocommerce.com:8080/job/vc-2-org/job/vc-platform/job/dev/)  |
 
-Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. Mobile App Starter built using Ionic Framework is also available.
+Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under <a href="https://virtocommerce.com/open-source-license" target="_blank">Virto Commerce Open Source License</a>. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. Mobile App Starter built using Ionic Framework is also available.
 
-Documentation: http://docs.virtocommerce.com
+Documentation: https://virtocommerce.com/docs
 
 Want to chat with other members of the Virto Commerce community?
 
@@ -22,12 +21,18 @@ http://virtocommerce.com/try-now/online-demo
 Cloud Private Demo
 -----------
 
-Setup your own private Microsoft Cloud environment and evaluate the latest version of Virto Commerce, <a href="http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure" target="_blank">read more</a>.
+Setup your own private Microsoft Cloud environment and evaluate the latest version of Virto Commerce, <a href="https://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure" target="_blank">read more</a>.
 
 <a href="https://azuredeploy.net/" target="_blank">
   <img alt="Deploy to Azure" src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
+## Developer resources
+* <a href="https://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/source-code-getting-started" target="_blank">Source Code Getting Started</a>
+* <a href="https://virtocommerce.com/docs/vc2devguide/deployment/platform-settings" target="_blank">Platform settings</a>
+* <a href="https://virtocommerce.com/docs/vc2devguide/development-scenarios/developing-a-custom-solution" target="_blank">Developing a custom solution</a>
+
+ 
 Contributing
 -----------
 We welcome & recognize contributors to Virto Commerce. There are many benefits available for our contributers, from special licensing to project involvement and access to private repositories. Follow the guide below to contribute:
